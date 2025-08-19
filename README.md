@@ -33,7 +33,7 @@ This project is a real-time object detection system built with **Flask**, **Open
 
 ### 1. Clone the repository
 
-git clone https://github.com/ChAtulKumarPrusty/Real-Time-Object-Detection-WebApp.git
+git clone https://github.com/SurajKumarpandey001/Real-Time-Object-Detection-WebApp.git
 cd your-repo-name
 
 Install dependencies
@@ -70,7 +70,7 @@ Flask Web Framework
 
 🤝 Connect
 Feel free to connect or contribute to the project!
-Made with ❤️ by Ch Atul Kumar Prusty
+Made with ❤️ by Suraj Kumar
 
 
 ---
